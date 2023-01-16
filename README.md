@@ -1,1 +1,1 @@
-# bobs-bagels
+# [Digital Futures] Bob's Bagels
